@@ -36,7 +36,7 @@ Anaaj Mitra is a web platform that simplifies grain procurement and ration manag
 git clone <YOUR_GIT_URL>
 
 # Navigate to project directory
-cd anaaj-mitra-farm-connect
+cd Anaaj-Mitra
 
 # Install dependencies
 npm install
